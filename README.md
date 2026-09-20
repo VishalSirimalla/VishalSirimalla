@@ -9,9 +9,9 @@ I'm a Computer Engineering student at **Thakur College of Engineering & Technolo
 - 🌱 Exploring **Open Source & GSoC**
 - ⚛️ Working with **React, JavaScript, Node.js & Express**
 - 🗄️ Working with **MongoDB & REST APIs**
-- 🧠 Improving my **Java, DSA & Problem Solving** skills
+- ☕ Improving my **Java, DSA & Problem Solving** skills
+- 🔧 Learning **Ruby on Rails** through open-source projects
 - 🚀 Love turning ideas into real-world projects
-- 🔧 Currently exploring **Ruby on Rails** through open-source projects
 - 🤝 Interested in collaborating on meaningful projects
 
 ---
@@ -66,12 +66,12 @@ I'm currently focused on:
 
 ## 🚀 What I'm Working On
 
-- 🖨️ **PrintFlow** — MERN-based print ordering platform
-- 🛡️ **SafeRoute** — Route planning and safety platform
-- 🌐 **Open Source Contributions**
-- ☕ **Java & DSA**
-- 💻 **Full-Stack Web Development**
-- 🚀 Building projects that solve real-world problems
+- 🌐 Full-Stack Web Development with MERN
+- 🖨️ Building and improving **PrintFlow**
+- 🌱 Exploring **Open Source & GitHub Contributions**
+- 🔧 Contributing to **CircuitVerse**
+- ☕ Improving **Java & DSA**
+- 🚀 Building projects for real-world use
 
 ---
 
@@ -85,17 +85,9 @@ A MERN-based print-ordering platform designed to simplify document printing for 
 
 ---
 
-### 🛡️ SafeRoute
-
-A route-planning platform focused on identifying safer routes using location-based services and accident-risk data.
-
-**Tech:** React • Node.js • Express • Python • FastAPI • OSRM • Geoapify
-
----
-
 ### 🔧 CircuitVerse Open Source
 
-Exploring and contributing to **CircuitVerse**, while learning how large-scale open-source projects work.
+Exploring and contributing to **CircuitVerse** while learning how large-scale open-source projects work.
 
 **Focus:** Ruby on Rails • JavaScript • GitHub • Debugging • Testing
 
@@ -109,14 +101,6 @@ Exploring and contributing to **CircuitVerse**, while learning how large-scale o
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalSirimalla&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalSirimalla&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
